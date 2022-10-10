@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Broadway';
-    src: url("includes/BROADW.TTF");
+    src: url("BROADW.TTF");
 }
 @font-face {
     font-family: 'Anton';
-    src: url("includes/Anton-Regular.ttf");
+    src: url("Anton-Regular.ttf");
 }
 @font-face {
     font-family: 'Britannic';
-    src: url("includes/BRITANIC.TTF");
+    src: url("BRITANIC.TTF");
 }
 @font-face {
     font-family: ebrima;
-    src: url("includes/ebrima.ttf");
+    src: url("ebrima.ttf");
 }
